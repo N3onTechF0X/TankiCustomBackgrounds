@@ -7,9 +7,9 @@
 // @match        https://tankionline.com/play*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tankionline.com
 
-// @resource     custom_background https://picsum.photos/200
-// @resource     custom_loading https://picsum.photos/200
-// @resource     custom_tab https://picsum.photos/200
+// @resource     custom_background https://picsum.photos/1024/1024
+// @resource     custom_loading https://picsum.photos/1024/1024
+// @resource     custom_tab https://picsum.photos/1024/1024
 
 // @grant        GM_addStyle
 // @grant        GM_getResourceURL
