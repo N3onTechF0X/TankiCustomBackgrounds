@@ -3,7 +3,7 @@
 // @description  Сustom backgrounds for lobby and tab in Tanki Online
 // @version      1.3.0
 // @author       N3onTechF0X
-// @match        https://%2A.test-eu.tankionline.com/browser-public/index.html?*
+// @match        https://*.test-eu.tankionline.com/browser-public/index.html?*
 // @match        https://tankionline.com/play*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tankionline.com
 
