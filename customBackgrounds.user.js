@@ -7,9 +7,9 @@
 // @match        https://tankionline.com/play*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tankionline.com
 
-// @resource     custom_background https://picsum.photos/1024/1024
-// @resource     custom_loading    https://picsum.photos/1024/1024
-// @resource     custom_tab        https://picsum.photos/1024/1024
+// @resource     custom_background https://tankionline.com/ru/wp-content/uploads/cache/2022/02/olipeada-min/2685032103.jpg
+// @resource     custom_loading    https://tankionline.com/ru/wp-content/uploads/cache/2022/02/olipeada-min/2685032103.jpg
+// @resource     custom_tab        https://tankionline.com/ru/wp-content/uploads/cache/2022/02/olipeada-min/2685032103.jpg
 
 // @grant        GM_addStyle
 // @grant        GM_getResourceURL
