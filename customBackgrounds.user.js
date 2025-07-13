@@ -8,8 +8,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tankionline.com
 
 // @resource     custom_background https://picsum.photos/1024/1024
-// @resource     custom_loading https://picsum.photos/1024/1024
-// @resource     custom_tab https://picsum.photos/1024/1024
+// @resource     custom_loading    https://picsum.photos/1024/1024
+// @resource     custom_tab        https://picsum.photos/1024/1024
 
 // @grant        GM_addStyle
 // @grant        GM_getResourceURL
@@ -17,9 +17,9 @@
 // ==/UserScript==
 
 
-const enableLoading = true; // Вход
+const enableLoading = true;    // Вход
 const enableBackground = true; // Гараж
-const enableTab = true; // Таб
+const enableTab = true;       // Таб
 
 enableLoading && GM_addStyle(`
 #root>.Common-background {
