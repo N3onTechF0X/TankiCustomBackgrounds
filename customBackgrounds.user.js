@@ -19,7 +19,7 @@
 
 const enableLoading = true;    // Вход
 const enableBackground = true; // Гараж
-const enableTab = true;       // Таб
+const enableTab = true;        // Таб
 
 enableLoading && GM_addStyle(`
 #root>.Common-background {
