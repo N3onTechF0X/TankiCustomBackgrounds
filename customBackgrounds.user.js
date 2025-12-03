@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Custom backgrounds
 // @description  Сustom backgrounds for lobby and tab in Tanki Online
-// @version      1.3.0
+// @version      1.3.1
 // @author       N3onTechF0X
 // @match        https://*.test-eu.tankionline.com/browser-public/index.html?*
 // @match        https://tankionline.com/play*
@@ -22,7 +22,7 @@ const enableBackground = true; // Гараж
 const enableTab = true;        // Таб
 
 enableLoading && GM_addStyle(`
-#root>.Common-background {
+#root .Common-background {
     background-image: url('${GM_getResourceURL("custom_loading")}') !important;
     background-size: cover !important;
     background-position: center !important;
